@@ -1,0 +1,23 @@
+bookcine
+│
+├── app
+│   ├── api
+│   │   └── books
+│   │       └── upload
+│   │           └── route.ts
+│   ├── layout.tsx
+│   └── page.tsx
+│
+├── lib
+│   ├── db.ts
+│   ├── pdf.ts
+│   └── storyEngine.ts
+│
+├── prisma
+│   └── schema.prisma
+│
+├── uploads
+│
+├── package.json
+├── next.config.js
+└── .env
